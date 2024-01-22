@@ -10,7 +10,7 @@ This project utilizes a Jupyter Notebook to analyze a dataset provided by the Am
 - An average entry-level Data Scientist's salary ranges between $80,000 and $90,000 according to Springboard.com.
 - The application of machine learning paradigms uncovers significant relationships between college major types, gender, and overall income, emphasizing the gender wage gap's impact.
 - In the Random Forest Classifier utilised in the model, the 1st and 3rd features with the highest relative importance were 'ShareWomen' and 'Women.'
-- For more detailed findings, please consult the Jupyter Notebook or the slides which contain further visualizations and explanations.
+- For more detailed findings, please consult the Jupyter Notebook or slides which both contain further visualizations and explanations.
 
 ## Dataset
 
